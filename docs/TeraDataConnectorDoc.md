@@ -38,7 +38,7 @@ The following automated operations can be included in playbooks and you can also
 <tr><td>Get List Of All Functions<br></td><td>Retrieves a list of all functions on a registered system.<br></td><td>get_list_of_all_functions <br/>Investigation<br></td></tr>
 <tr><td>Get List Of All Macros<br></td><td>Retrieves a list of all macros on a registered system.<br></td><td>get_list_of_all_macros <br/>Investigation<br></td></tr>
 <tr><td>Get List Of All Procedures<br></td><td>Retrieves a list of all procedures on a registered system.<br></td><td>get_list_of_all_procedures <br/>Investigation<br></td></tr>
-<tr><td>Get List Of All Tables<br></td><td>Retrieves a list of all tables on a registered system.<br></td><td> <br/>Investigation<br></td></tr>
+<tr><td>Get List Of All Tables<br></td><td>Retrieves a list of all tables on a registered system.<br></td><td>get_list_of_all_tables <br/>Investigation<br></td></tr>
 <tr><td>Get Specific Table By Name<br></td><td>Retrieves specific table by name on a registered system.<br></td><td>get_specific_table_by_name <br/>Investigation<br></td></tr>
 <tr><td>Get List Of All Views<br></td><td>Retrieves a list of all views on a registered system.<br></td><td>get_list_of_all_views <br/>Investigation<br></td></tr>
 <tr><td>Get Specific View By Name<br></td><td>Retrieves specific view by name on a registered system.<br></td><td>get_specific_view_by_name <br/>Investigation<br></td></tr>

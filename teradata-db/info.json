@@ -1,15 +1,15 @@
 {
-    "name": "tearadata-db",
+    "name": "teradata-db",
     "version": "1.0.0",
     "label": "Teradata DB",
     "description": "Teradata DB is one of the popular Relational Database Management System. It is mainly suitable for building large scale data warehousing applications. Teradata Query Service is a REST API for Vantage that you can use to run standard SQL statements without managing client-side drivers.",
-    "publisher": "spryIQ.co",
+    "publisher": "Fortinet",
     "icon_small_name": "small.png",
     "icon_large_name": "large.png",
     "cs_compatible": true,
     "cs_approved": false,
     "category": "Database",
-    "help_online": "https://github.com/jitesh-spryiq/connector-teradata-db/blob/develop/docs/TeraDataConnectorDoc.md",
+    "help_online": "https://github.com/fortinet-fortisoar/connector-teradata-db/blob/release/1.0.0/docs/TeraDataConnectorDoc.md",
     "configuration": {
         "fields": [
             {
@@ -276,6 +276,7 @@
         },
         {
             "title": "Get List Of All Tables",
+            "annotation": "get_list_of_all_tables",
             "operation": "get_list_of_all_tables",
             "description": "Retrieves a list of all tables on a registered system.",
             "tooltip": "Retrieves a list of all tables on a registered system.",
@@ -557,7 +558,7 @@
             "operation": "get_query_by_id",
             "tooltip": "Retrieves specific query by id on a registered system.",
             "description": "Retrieves specific query by id on a registered system.",
-            "annotation": "get_query_by_id   ",
+            "annotation": "get_query_by_id",
             "category": "investigation",
             "parameters": [
                 {
@@ -671,7 +672,7 @@
             "operation": "get_list_of_all_systems",
             "description": "Retrieves a list of all systems on a registered system.",
             "tooltip": "Retrieves a list of all systems on a registered system.",
-            "annotation": "get_list_of_all_systems   ",
+            "annotation": "get_list_of_all_systems",
             "category": "investigation",
             "parameters": [],
             "output_schema": [ 

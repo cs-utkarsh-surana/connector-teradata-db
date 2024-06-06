@@ -9,8 +9,8 @@
       "visible": true,
       "image": null,
       "recordTags": [
-        "Tearadata",
-        "tearadata-db"
+        "Teradata",
+        "teradata-db"
       ],
       "workflows": [
         {
@@ -22,8 +22,8 @@
           "name": "Get List Of All Databases",
           "tag": "#Teradata DB",
           "recordTags": [
-            "Tearadata",
-            "tearadata-db"
+            "Teradata",
+            "teradata-db"
           ],
           "isActive": false,
           "debug": false,
@@ -71,7 +71,7 @@
                   "system_name": ""
                 },
                 "version": "1.0.0",
-                "connector": "tearadata-db",
+                "connector": "teradata-db",
                 "operation": "get_list_of_all_databases",
                 "operationTitle": "Get List Of All Databases",
                 "step_variables": {
@@ -104,8 +104,8 @@
           "name": "Get Specific Database By Name",
           "tag": "#Teradata DB",
           "recordTags": [
-            "Tearadata",
-            "tearadata-db"
+            "Teradata",
+            "teradata-db"
           ],
           "isActive": false,
           "debug": false,
@@ -153,7 +153,7 @@
                   "database_name": ""
                 },
                 "version": "1.0.0",
-                "connector": "tearadata-db",
+                "connector": "teradata-db",
                 "operation": "get_specific_database_by_name",
                 "operationTitle": "Get Specific Database By Name",
                 "step_variables": {
@@ -186,8 +186,8 @@
           "name": "Get List Of All Functions",
           "tag": "#Teradata DB",
           "recordTags": [
-            "Tearadata",
-            "tearadata-db"
+            "Teradata",
+            "teradata-db"
           ],
           "isActive": false,
           "debug": false,
@@ -233,7 +233,7 @@
                 "config": "''",
                 "params": [],
                 "version": "1.0.0",
-                "connector": "tearadata-db",
+                "connector": "teradata-db",
                 "operation": "get_list_of_all_functions",
                 "operationTitle": "Get List Of All Functions",
                 "step_variables": {
@@ -266,8 +266,8 @@
           "name": "Get List Of All Macros",
           "tag": "#Teradata DB",
           "recordTags": [
-            "Tearadata",
-            "tearadata-db"
+            "Teradata",
+            "teradata-db"
           ],
           "isActive": false,
           "debug": false,
@@ -313,7 +313,7 @@
                 "config": "''",
                 "params": [],
                 "version": "1.0.0",
-                "connector": "tearadata-db",
+                "connector": "teradata-db",
                 "operation": "get_list_of_all_macros",
                 "operationTitle": "Get List Of All Macros",
                 "step_variables": {
@@ -346,8 +346,8 @@
           "name": "Get List Of All Procedures",
           "tag": "#Teradata DB",
           "recordTags": [
-            "Tearadata",
-            "tearadata-db"
+            "Teradata",
+            "teradata-db"
           ],
           "isActive": false,
           "debug": false,
@@ -393,7 +393,7 @@
                 "config": "''",
                 "params": [],
                 "version": "1.0.0",
-                "connector": "tearadata-db",
+                "connector": "teradata-db",
                 "operation": "get_list_of_all_procedures",
                 "operationTitle": "Get List Of All Procedures",
                 "step_variables": {
@@ -426,8 +426,8 @@
           "name": "Get List Of All Tables",
           "tag": "#Teradata DB",
           "recordTags": [
-            "Tearadata",
-            "tearadata-db"
+            "Teradata",
+            "teradata-db"
           ],
           "isActive": false,
           "debug": false,
@@ -473,7 +473,7 @@
                 "config": "''",
                 "params": [],
                 "version": "1.0.0",
-                "connector": "tearadata-db",
+                "connector": "teradata-db",
                 "operation": "get_list_of_all_tables",
                 "operationTitle": "Get List Of All Tables",
                 "step_variables": {
@@ -506,8 +506,8 @@
           "name": "Get Specific Table By Name",
           "tag": "#Teradata DB",
           "recordTags": [
-            "Tearadata",
-            "tearadata-db"
+            "Teradata",
+            "teradata-db"
           ],
           "isActive": false,
           "debug": false,
@@ -553,7 +553,7 @@
                 "config": "''",
                 "params": [],
                 "version": "1.0.0",
-                "connector": "tearadata-db",
+                "connector": "teradata-db",
                 "operation": "get_specific_table_by_name",
                 "operationTitle": "Get Specific Table By Name",
                 "step_variables": {
@@ -586,8 +586,8 @@
           "name": "Get List Of All Views",
           "tag": "#Teradata DB",
           "recordTags": [
-            "Tearadata",
-            "tearadata-db"
+            "Teradata",
+            "teradata-db"
           ],
           "isActive": false,
           "debug": false,
@@ -633,7 +633,7 @@
                 "config": "''",
                 "params": [],
                 "version": "1.0.0",
-                "connector": "tearadata-db",
+                "connector": "teradata-db",
                 "operation": "get_list_of_all_views",
                 "operationTitle": "Get List Of All Views",
                 "step_variables": {
@@ -666,8 +666,8 @@
           "name": "Get Specific View By Name",
           "tag": "#Teradata DB",
           "recordTags": [
-            "Tearadata",
-            "tearadata-db"
+            "Teradata",
+            "teradata-db"
           ],
           "isActive": false,
           "debug": false,
@@ -716,7 +716,7 @@
                   "view_name": ""
                 },
                 "version": "1.0.0",
-                "connector": "tearadata-db",
+                "connector": "teradata-db",
                 "operation": "get_specific_view_by_name",
                 "operationTitle": "Get Specific View By Name",
                 "step_variables": {
@@ -749,8 +749,8 @@
           "name": "Get List Of All Queries",
           "tag": "#Teradata DB",
           "recordTags": [
-            "Tearadata",
-            "tearadata-db"
+            "Teradata",
+            "teradata-db"
           ],
           "isActive": false,
           "debug": false,
@@ -801,7 +801,7 @@
                   "clientId": ""
                 },
                 "version": "1.0.0",
-                "connector": "tearadata-db",
+                "connector": "teradata-db",
                 "operation": "get_list_of_all_queries",
                 "operationTitle": "Get List Of All Queries",
                 "step_variables": {
@@ -834,8 +834,8 @@
           "name": "Submit A Query",
           "tag": "#Teradata DB",
           "recordTags": [
-            "Tearadata",
-            "tearadata-db"
+            "Teradata",
+            "teradata-db"
           ],
           "isActive": false,
           "debug": false,
@@ -883,7 +883,7 @@
                   "query_request": ""
                 },
                 "version": "1.0.0",
-                "connector": "tearadata-db",
+                "connector": "teradata-db",
                 "operation": "submit_a_query",
                 "operationTitle": "Submit A Query",
                 "step_variables": {
@@ -916,8 +916,8 @@
           "name": "Get Query By Id",
           "tag": "#Teradata DB",
           "recordTags": [
-            "Tearadata",
-            "tearadata-db"
+            "Teradata",
+            "teradata-db"
           ],
           "isActive": false,
           "debug": false,
@@ -965,7 +965,7 @@
                   "id": ""
                 },
                 "version": "1.0.0",
-                "connector": "tearadata-db",
+                "connector": "teradata-db",
                 "operation": "get_query_by_id",
                 "operationTitle": "Get Query By Id",
                 "step_variables": {
@@ -998,8 +998,8 @@
           "name": "Get Query Results By ID",
           "tag": "#Teradata DB",
           "recordTags": [
-            "Tearadata",
-            "tearadata-db"
+            "Teradata",
+            "teradata-db"
           ],
           "isActive": false,
           "debug": false,
@@ -1048,7 +1048,7 @@
                   "row_limit": ""
                 },
                 "version": "1.0.0",
-                "connector": "tearadata-db",
+                "connector": "teradata-db",
                 "operation": "get_query_results_by_id",
                 "operationTitle": "Get Query Results By ID",
                 "step_variables": {
@@ -1081,8 +1081,8 @@
           "name": "Get List Of All Systems",
           "tag": "#Teradata DB",
           "recordTags": [
-            "Tearadata",
-            "tearadata-db"
+            "Teradata",
+            "teradata-db"
           ],
           "isActive": false,
           "debug": false,
@@ -1128,7 +1128,7 @@
                 "config": "''",
                 "params": [],
                 "version": "1.0.0",
-                "connector": "tearadata-db",
+                "connector": "teradata-db",
                 "operation": "get_list_of_all_systems",
                 "operationTitle": "Get List Of All Systems",
                 "step_variables": {
